@@ -1,0 +1,6 @@
+metodo,razon_media,razon_mediana,razon_max,razon_min,pct_optimo
+MST puro,1.1348,1.1420,1.4112,1.0000,10.0
+MST + 2-opt,1.0057,1.0000,1.0627,1.0000,80.0
+2-opt (aleatorio),1.0077,1.0000,1.0832,1.0000,77.0
+2-opt (NN),1.0071,1.0000,1.0696,1.0000,79.0
+Recocido (exp.),1.0000,1.0000,1.0000,1.0000,100.0
