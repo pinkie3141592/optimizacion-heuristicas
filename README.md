@@ -1,7 +1,7 @@
 # Optimización y Heurísticas: Reporte Final
 
-- **Repositorio:** `<PEGAR_URL_PUBLICA_DEL_REPOSITORIO>`
-- **Video demo (máx. 8 min):** `<PEGAR_ENLACE_AL_VIDEO>`
+- **Repositorio:** `https://github.com/pinkie3141592/optimizacion-heuristicas`
+- **Video demo (máx. 8 min):** `https://youtu.be/5sL9iXngasg`
 
 ## Estructura y ejecución
 
